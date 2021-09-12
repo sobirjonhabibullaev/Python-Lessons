@@ -68,8 +68,3 @@ while A:
         A = True
     else:
         A = False
-
-
-
-
-    
